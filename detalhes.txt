@@ -1,0 +1,14 @@
+Conteúdo - trio de EPROMs, que encontrei dentro de meu CP 500 M80C
+
+Placa fabricada pela DATACOM, descrito como "Mód Memória-C-SERIE". Possui slot para 3 EPROMs 27128, quais
+estão marcadas como TLX500A (A), TLX500B (B) e TRS80 (C). Obtive ZERO detalhes sobre esta placa, porém deixo
+aqui o conteúdo das 3 EPROMs, sendo o conteúdo da (C), o mesmo original do CP 500 M80C.
+
+Além das EPROMs, a placa conta com 2 TTLs (74LS74 e 74LS32), 1 CI SDA555CE e outros componentes passivos 
+(resistores e capacitores).
+
+'CÓDIGO DE MAQUINA, COM INSTRUÇÕES PARA Z80 E DADOS ASCII'
+
+EPROM A - DATACOMA.BIN
+EPROM B - DATACOMB.BIN
+EPROM C - DATACOMC.BIN
