@@ -1,2 +1,2 @@
 # EPROMs-DATACOM
-Conteúdo do trio de EPROMs DATACOM-CP500
+Conteúdos do trio de EPROMs DATACOM-CP500
